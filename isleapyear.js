@@ -8,3 +8,4 @@ function isLeapYear  (year){
     }
 }
 isLeapYear(1933);
+isLeapYear(1960);
